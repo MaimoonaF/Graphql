@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.3",
   "info": {
-    "title": "Converted GraphQL API",
+    "title": "GraphQL API",
     "version": "1.0.0"
   },
   "paths": {
